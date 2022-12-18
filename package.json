@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "ethers": "^5.7.1",
+    "keccak256": "^1.0.6",
+    "merkletree": "^1.5.0",
+    "merkletreejs": "^0.2.32",
+    "readline-sync": "^1.4.10"
+  }
+}

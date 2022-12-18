@@ -1,0 +1,4 @@
+-환경정보로 빼기 : networkid (mainnet/testnet/local.. etc)
+-erc721 기본 인터페이스 작성 및 출력
+
+etherscan API 를 활용하면 verified contract 에 대한 ABI를 가져올 수 있음
